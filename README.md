@@ -72,4 +72,4 @@ Then this tool can help you to do it easier and more quickly:
 	
 The more complex the class is, the more efforts it spares you.
 
-For more wonderful usages, please refer to the sample files under "\src\samples\".
+For more wonderful usages, please refer to the sample files under "/src/samples/main/java/org/samwit/tools/jsonserializer/samples/jsonbean/".
